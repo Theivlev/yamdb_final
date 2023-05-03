@@ -1,8 +1,7 @@
+from api.v1.validators import UnicodeUsernameValidator, username
 from django.contrib.auth import get_user_model
 from rest_framework import serializers
 from rest_framework.validators import UniqueValidator
-
-from api.v1.validators import UnicodeUsernameValidator, username
 
 User = get_user_model()
 
