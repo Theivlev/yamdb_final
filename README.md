@@ -1,3 +1,3 @@
 # yamdb_final
 yamdb_final
-![example workflow](https://github.com/theivlev/yambd_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+[![API for YaMDB project workflow](https://github.com/theivlev/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=main)](https://github.com/Theivlev/yamdb_final/actions/workflows/yamdb_workflow.yml)
